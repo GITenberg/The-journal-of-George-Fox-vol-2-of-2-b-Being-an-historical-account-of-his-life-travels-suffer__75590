@@ -1,0 +1,69 @@
+_repo: The-journal-of-George-Fox-vol-2-of-2-b-Being-an-historical-account-of-his-life-travels-suffer__75590
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Pickard, Daniel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '58059'
+    url: http://www.gutenberg.org/2009/agents/58059
+  contributors:
+  - agent_name: Fell, Margaret
+    aliases:
+    - Fox, Margaret Askew Fell
+    - Askew, Margaret
+    birthdate: 1614
+    deathdate: 1702
+    gutenberg_agent_id: '58048'
+    url: http://www.gutenberg.org/2009/agents/58048
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Fell
+  - agent_name: Penn, William
+    aliases:
+    - Pen, William
+    - Philanglus
+    - Philo-britannicus
+    birthdate: 1644
+    deathdate: 1718
+    gutenberg_agent_id: '8625'
+    url: http://www.gutenberg.org/2009/agents/8625
+    wikipedia: https://en.wikipedia.org/wiki/William_Penn
+creator:
+  author:
+    agent_name: Fox, George
+    alias: Fox, G. (George)
+    birthdate: 1624
+    deathdate: 1691
+    gutenberg_agent_id: '41992'
+    url: http://www.gutenberg.org/2009/agents/41992
+    wikipedia: https://en.wikipedia.org/wiki/George_Fox
+  editor:
+    agent_name: Penney, Norman
+    birthdate: 1858
+    deathdate: 1933
+    gutenberg_agent_id: '55635'
+    url: http://www.gutenberg.org/2009/agents/55635
+description: ''
+edition_note: Eighth (bi-centenary) edition
+gutenberg_issued: '2025-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75590'
+language: en
+pgterms:marc904: https://archive.org/details/journalofgeorgef01foxg_0
+pgterms:marc905: 20180130065357fox
+pgterms:marc906: '1901'
+pgterms:marc907: GB
+production_note: Emmanuel Ackerman, KD Weeks, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bFriends'' Tract Association, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fox, George, 1624-1691'
+- !lcc 'BX'
+- GITenberg
+title: 'The journal of George Fox, vol. 2 of 2 : $b Being an historical account of
+  his life, travels, sufferings, and Christian experiences.'
+url: http://www.gutenberg.org/ebooks/75590
